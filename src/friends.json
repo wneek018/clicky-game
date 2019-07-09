@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Bulbasaur",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
+        "count": 0
+    },
+    {
+        "id": 2,
+        "name": "Ivysaur",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png",
+        "count": 0
+    },
+    {
+        "id": 3,
+        "name": "Venusaur",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png",
+        "count": 0
+    },
+    {
+        "id": 4,
+        "name": "Charmander",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
+        "count": 0
+    },
+    {
+        "id": 5,
+        "name": "Charmeleon",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png",
+        "count": 0
+    },
+    {
+        "id": 6,
+        "name": "Charizard",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png",
+        "count": 0
+    },
+    {
+        "id": 7,
+        "name": "Squirtle",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png",
+        "count": 0
+    },
+    {
+        "id": 8,
+        "name": "Wartortle",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png",
+        "count": 0
+    },
+    {
+        "id": 9,
+        "name": "Blastoise",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png",
+        "count": 0
+    },
+    {
+        "id": 10,
+        "name": "Caterpie",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png",
+        "count": 0
+    },
+    {
+        "id": 11,
+        "name": "Metapod",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png",
+        "count": 0
+    },
+    {
+        "id": 12,
+        "name": "Butterfree",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png",
+        "count": 0
+    },
+    {
+        "id": 13,
+        "name": "Weedle",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/013.png",
+        "count": 0
+    },
+    {
+        "id": 14,
+        "name": "Kakuna",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/014.png",
+        "count": 0
+    },
+    {
+        "id": 15,
+        "name": "Beedrill",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png",
+        "count": 0
+    }
+]
