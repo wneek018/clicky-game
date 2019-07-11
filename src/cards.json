@@ -154,5 +154,17 @@
         "name": "Raichu",
         "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/026.png",
         "count": 0
+    },
+    {
+        "id": 27,
+        "name": "Sandshrew",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/027.png",
+        "count": 0
+    },
+    {
+        "id": 28,
+        "name": "Sandslash",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/028.png",
+        "count": 0
     }
 ]
