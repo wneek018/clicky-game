@@ -41,7 +41,7 @@ class App extends Component {
           this.setState({score: this.state.score + 1}, function() {
             console.log(this.state.score);
           });
-          this.state.cards.sort(() => Math.random() - .05)
+          this.state.cards.sort(() => Math.random() - .5)
           return true;
         } else {
           this.gameOver();
